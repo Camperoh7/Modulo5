@@ -2,7 +2,7 @@ import React from 'react'
 
 const Encabezado = () => {
     return (
-        <div className='encabezado'>¡BIENVENIDOS TODOS!</div>
+        <div className='encabezado'>¡BIENVENIDOS!</div>
     )
 }
 
